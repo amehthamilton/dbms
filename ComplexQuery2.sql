@@ -1,4 +1,4 @@
--- Complex Query 2
+-- Compound filtering example
 
 --Example 1
 SELECT * FROM student
